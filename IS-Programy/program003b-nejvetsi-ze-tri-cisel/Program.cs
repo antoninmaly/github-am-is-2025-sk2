@@ -5,11 +5,11 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("*********** Největší ze tří čísel **********");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************* Antonín Malý *****************");
-    Console.WriteLine("************** 2.10.2025 *******************");
+    Console.WriteLine("************** 23.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
