@@ -1,0 +1,15 @@
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\bin\Debug\net9.0\program004c-obrazec-n.exe
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\bin\Debug\net9.0\program004c-obrazec-n.deps.json
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\bin\Debug\net9.0\program004c-obrazec-n.runtimeconfig.json
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\bin\Debug\net9.0\program004c-obrazec-n.dll
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\bin\Debug\net9.0\program004c-obrazec-n.pdb
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.AssemblyInfoInputs.cache
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.AssemblyInfo.cs
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.csproj.CoreCompileInputs.cache
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.sourcelink.json
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.dll
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\refint\program004c-obrazec-n.dll
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.pdb
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\program004c-obrazec-n.genruntimeconfig.cache
+C:\Users\tonda\aaa\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004c-obrazec-n\obj\Debug\net9.0\ref\program004c-obrazec-n.dll
