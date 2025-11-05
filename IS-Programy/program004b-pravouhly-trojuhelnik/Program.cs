@@ -5,7 +5,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("***** Vykreslení pravoúhlého troúhelníku ***");
+    Console.WriteLine("*** Vykreslení pravoúhlého trojúhelníka ****");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************* Antonín Malý *****************");
@@ -14,14 +14,27 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
-    Console.Write("Zadejte první číslo řady (celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+     {
+
+        int velikost;
+
+        // Zadání jedné kladné hodnoty
+        while (true)
+        {
+            Console.Write("Zadej velikost trojúhelníku (kladné celé číslo): ");
+            if (int.TryParse(Console.ReadLine(), out velikost) && velikost > 0)
+                break;
+            Console.WriteLine("Neplatný vstup, zadej prosím kladné celé číslo.");
+        }
+
+        // Vykreslení trojúhelníku
+        Console.WriteLine();
+        Console.WriteLine();
+        for (int i = 1; i <= velikost; i++)
+        {
+            Console.WriteLine(new string('*', i));
+        }
     }
-
-
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
