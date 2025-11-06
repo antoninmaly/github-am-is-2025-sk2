@@ -50,17 +50,56 @@ while (again == "a")
     Random myRandomNumber = new Random();
     //Random myRandomNumber = new Random(15); //pořád generuje stejný čísla při stejných hodnotách
 
+    //kladná, záporná nebo nuly
+    int negativeNumbers = 0;
+    int positiveNumbers = 0;
+    int zeros = 0;
+
+    //sudá nebo lichá
+    int evenNumbers = 0;
+    int oddNumbers = 0;
+
     Console.WriteLine();
     Console.WriteLine("Náhodná čísla: ");
-    for(int i = 0;i < n; i++)
+    for (int i = 0; i < n; i++)
     {
-        myRandomNumbers[i] = myRandomNumber.Next(lb, ub+1);
+        myRandomNumbers[i] = myRandomNumber.Next(lb, ub + 1);
         Console.Write("{0};", myRandomNumbers[i]);
+
+        /*
+        if (myRandomNumber[i] > 0)
+            positiveNumbers++;
+        if (myRandomNumber[i] < 0)
+            negativeNumbers++;
+        if (myRandomNumber[i] == 0)
+            zeros++;
+        */
+
+        if (myRandomNumbers[i] > 0)
+            positiveNumbers++;
+        else if (myRandomNumbers[i] < 0)
+            negativeNumbers++;
+        else zeros++;
+
+
+        if (myRandomNumbers[i] % 2 == 0)
+            evenNumbers++;
+        else oddNumbers++;
     }
+
     Console.WriteLine();
-
-
-
+    Console.WriteLine("===============================================");
+    Console.WriteLine("===============================================");
+    Console.WriteLine($"Počet kladných: {positiveNumbers}");
+    Console.WriteLine($"Počet záporných: {negativeNumbers}");
+    Console.WriteLine($"Počet nul: {zeros}");
+    Console.WriteLine("===============================================");
+    Console.WriteLine("===============================================");
+    Console.WriteLine($"Počet sudých: {evenNumbers}");
+    Console.WriteLine($"Počet lichých: {oddNumbers}");
+    Console.WriteLine("===============================================");
+    Console.WriteLine("===============================================");
+    
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
