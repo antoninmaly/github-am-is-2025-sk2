@@ -5,7 +5,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("*********** Generátor pseudonáhodných čísel *************");
+    Console.WriteLine("********** Maximum, minimum, vykreslení obrazce *********");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("********************* Antonín Malý **********************");
@@ -52,7 +52,7 @@ while (again == "a")
 
     Console.WriteLine();
     Console.WriteLine("Náhodná čísla: ");
-    for(int i = 0;i < n; i++)
+    for (int i = 0;i < n; i++)
     {
         myRandomNumbers[i] = myRandomNumber.Next(lb, ub+1);
         Console.Write("{0};", myRandomNumbers[i]);
@@ -88,14 +88,66 @@ while (again == "a")
     Console.WriteLine($"Minimum: {min}");
     Console.WriteLine($"Pozice minima: {posMin}");
     Console.WriteLine("====================================");
+    Console.WriteLine();
 
+    // Vykreslování přesýpacích hodin
 
+    if (max >= 3)
+    {
+        Console.WriteLine("================================");
+        Console.WriteLine();
+        Console.WriteLine($"Přesýpací hodiny o velikosti: {max}");
+        Console.WriteLine();
 
+        // Tento cyklus se stará o to, aby se vykreslil správný počet řádků
+        for (int i = 0; i < max; i++)
+        {
+            int spaces, stars;
 
+            if (i < max / 2)
+            {
+                // horní polovina - počet mezer v i-tém řádku (pouze zleva)
+                spaces = i;
 
+                // horní polovina - s každým dalším řádkem ubývají 2 hvězdičky (po jedná z každé řady)
+                stars = max - 2 * i;
 
+                // 10 - 2.0 = 1O
+                // 10 - 2.1 = 8
+                // 10 - 2.2 = 6
+            }
+            else
+            {
+                // dolní polovina - počet mezer v i-tém řádku (pouze zleva)
+                spaces = max - i - 1;
+                if (max % 2 == 1)
+                {
+                    stars = 2 * (i - max / 2) + 1;
+                }
+                else
+                {
+                    stars = 2 * (i - max / 2) + 2;
+                }
+            }
 
+            Console.ForegroundColor = ConsoleColor.Blue;
+            // vykreslení správného počtu mezer pro každý řádek
+            for (int sp = 0; sp < spaces; sp++)
+                Console.Write(" ");
 
+            // vykreslení správného počtu hvězdiček pro každý řádek
+            for (int st = 0; st < stars; st++)
+                Console.Write("*");
+
+            Console.WriteLine();
+        }
+        Console.ResetColor();
+
+    }
+    else
+    {
+        Console.WriteLine("Maximum je menší než 3 => obrazec nelze vykreslit!");
+    }
 
 
     Console.WriteLine();
