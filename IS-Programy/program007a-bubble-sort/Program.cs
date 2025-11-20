@@ -1,15 +1,17 @@
 ﻿using Microsoft.Win32.SafeHandles;
+using System.Diagnostics;
+
 
 string again = "a";
 while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("*********** Generátor pseudonáhodných čísel *************");
+    Console.WriteLine("******************** Bubble Sort ************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("********************* Antonín Malý **********************");
-    Console.WriteLine("********************** 6.11.2025 ************************");
+    Console.WriteLine("******************** Antonín Malý ***********************");
+    Console.WriteLine("********************* 20.11.2025 ************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine();
@@ -59,7 +61,44 @@ while (again == "a")
     }
     Console.WriteLine();
 
+    Stopwatch myStopwatch = new Stopwatch();
 
+    int compare = 0; // počet porovnávání
+    int change = 0; // počet výměn
+
+
+    myStopwatch.Start();
+    for(int i=0; i < n - 1 ; i++)
+    {
+        // tento cyklus musí zajistit porovnávání dvou sousedních hodnot
+        // musí dále zajistit, aby se zmenšoval počet porovnávaných hodnot
+        for(int j = 0; j < n - 1 - i ; j++)
+            if(myRandomNumbers[j] > myRandomNumbers[j+1])
+            {
+                int tmp = myRandomNumbers[j+1];
+                myRandomNumbers[j+1] = myRandomNumbers[j];
+                myRandomNumbers[j] = tmp;
+                change++;
+            }
+            compare++;
+    }
+    myStopwatch.Stop();
+
+    Console.WriteLine();
+    Console.WriteLine("===============================");
+    Console.WriteLine("Seřazené pole: ");
+    for(int i = 0; i < n; i++)
+    {
+         Console.Write("{0};", myRandomNumbers[i]);
+    }
+    Console.WriteLine();
+
+    Console.WriteLine();
+    Console.WriteLine($"Počet porovnávání: {compare}");
+    Console.WriteLine($"Počet výměn: {change}");
+    Console.WriteLine();
+    Console.WriteLine($"Čas seřazení čísel pomocí BS: {myStopwatch.Elapsed}");
+    
 
 
     Console.WriteLine();
