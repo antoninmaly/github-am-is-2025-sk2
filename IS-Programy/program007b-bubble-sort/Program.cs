@@ -85,8 +85,6 @@ while (again == "a")
     myStopwatch.Stop();
 
     for (int i = 0; i < n; i++)
-    int max = myRandomNumbers[i];
-    int smax = myRandomNumbers[i+1];
     {
         
     }
@@ -106,7 +104,6 @@ while (again == "a")
     Console.WriteLine($"Počet výměn: {change}");
     Console.WriteLine();
     Console.WriteLine($"Čas seřazení čísel pomocí BS: {myStopwatch.Elapsed}");
-    
 
 
     Console.WriteLine();
