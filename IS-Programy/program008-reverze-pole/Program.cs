@@ -8,8 +8,8 @@ while (again == "a")
     Console.WriteLine("******************** Reverze pole ***********************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("********************* Antonín Malý **********************");
-    Console.WriteLine("********************** 27.11.2025 ***********************");
+    Console.WriteLine("******************** Antonín Malý ***********************");
+    Console.WriteLine("********************* 27.11.2025 ************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine();
@@ -58,6 +58,19 @@ while (again == "a")
         Console.Write("{0};", myRandomNumbers[i]);
     }
     Console.WriteLine();
+
+    for(int i=0; i < n/2  ; i++) {
+        int tmp = myRandomNumbers[i];
+        myRandomNumbers[i] = myRandomNumbers[n - i - 1];
+        myRandomNumbers[n - i - 1] = tmp;
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("=====================================");
+    Console.WriteLine("Pole po reverzi:");
+    for(int i=0; i < n; i++) {
+        Console.Write("{0}; ",myRandomNumbers[i]);
+    }
 
 
 
