@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\bin\Debug\net9.0\program009a-10do2.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\bin\Debug\net9.0\program009a-10do2.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\bin\Debug\net9.0\program009a-10do2.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\bin\Debug\net9.0\program009a-10do2.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\bin\Debug\net9.0\program009a-10do2.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\refint\program009a-10do2.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\program009a-10do2.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program009a-10do2\obj\Debug\net9.0\ref\program009a-10do2.dll
