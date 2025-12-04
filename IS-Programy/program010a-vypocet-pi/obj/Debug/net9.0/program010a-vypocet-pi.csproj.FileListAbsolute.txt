@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\bin\Debug\net9.0\program010a-vypocet-pi.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\bin\Debug\net9.0\program010a-vypocet-pi.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\bin\Debug\net9.0\program010a-vypocet-pi.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\bin\Debug\net9.0\program010a-vypocet-pi.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\bin\Debug\net9.0\program010a-vypocet-pi.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\refint\program010a-vypocet-pi.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\program010a-vypocet-pi.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program010a-vypocet-pi\obj\Debug\net9.0\ref\program010a-vypocet-pi.dll
