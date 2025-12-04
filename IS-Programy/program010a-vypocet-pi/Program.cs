@@ -14,11 +14,11 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
-    Console.Write("Zadejte poslední číslo řady (kladné číslo < 1): ");
+    Console.Write("Zadejte přesnost (reálné číslo - čím menší, tím větší přesnost): ");
     double presnost;
     while (!double.TryParse(Console.ReadLine(), out presnost))
     {
-        Console.Write("Nezadali jste kladné číslo < 1. Zadejte posední číslo řady znovu: ");
+        Console.Write("Nezadali jste reálné číslo. Zadejte přesnost znovu: ");
     }
 
     double i = 1;
@@ -30,7 +30,7 @@ while (again == "a")
     {
         i = i+2;
         znamenko = - znamenko;
-        piCtvrt = piCtvrt + znamenko *1/i;
+        piCtvrt = piCtvrt + znamenko (*1/i);
     }
 
    
