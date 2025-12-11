@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\bin\Debug\net9.0\program012a-NSD-NSN.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\bin\Debug\net9.0\program012a-NSD-NSN.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\bin\Debug\net9.0\program012a-NSD-NSN.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\bin\Debug\net9.0\program012a-NSD-NSN.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\bin\Debug\net9.0\program012a-NSD-NSN.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\refint\program012a-NSD-NSN.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\program012a-NSD-NSN.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program012a-NSD-NSN\obj\Debug\net9.0\ref\program012a-NSD-NSN.dll
