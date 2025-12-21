@@ -9,7 +9,7 @@ while (again == "a")
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("********************* Antonín Malý **********************");
-    Console.WriteLine("********************** 11.12.2025 ************************");
+    Console.WriteLine("********************** 11.12.2025 ***********************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine();
@@ -58,6 +58,48 @@ while (again == "a")
         Console.Write("{0};", myRandomNumbers[i]);
     }
     Console.WriteLine();
+
+    //max, min
+    int max = myRandomNumbers[0];
+    int min = myRandomNumbers[0];
+
+    for (int i = 1; i < n; i++)
+    {
+        if(myRandomNumbers[i] > max)
+        {
+            max = myRandomNumbers[i];
+        }
+
+        if (myRandomNumbers[i] < min)
+        {
+            min = myRandomNumbers[i];
+        }
+    }
+
+    Console.WriteLine();
+    Console.Write($"Maximum: {max}, všechny pozice maxima: ");
+
+    for(int i = 0; i < n; i++)
+    {
+        if(myRandomNumbers[i] == max)
+        {
+            Console.Write($"{i};");
+        }
+    }
+    Console.WriteLine();
+    Console.Write($"Minimum: {min}, všechny pozice minima: ");
+
+     for(int i = 0; i < n; i++)
+    {
+        if(myRandomNumbers[i] == min)
+        {
+            Console.Write($"{i};");
+        }
+    }
+    Console.WriteLine();
+
+    
+
 
 
 
