@@ -1,4 +1,6 @@
-﻿using Microsoft.Win32.SafeHandles;
+﻿using System.Globalization;
+using System.Security.Authentication.ExtendedProtection;
+using Microsoft.Win32.SafeHandles;
 
 string again = "a";
 while (again == "a")
@@ -98,9 +100,82 @@ while (again == "a")
     }
     Console.WriteLine();
 
-    
+    //selection sort, bubble sort, insertion sort
+    /*selection sort:
 
+    for (int i = 0; i < n - 1; i++)
+    {
+        int indexMinima = i;
 
+        for (int j = i + 1; j < n; j++)
+        {
+            if (myRandomNumbers[j] < myRandomNumbers[indexMinima])
+            {
+                indexMinima = j;
+            }
+        }
+
+        int docasnaPromenna = myRandomNumbers[indexMinima];
+        myRandomNumbers[indexMinima] = myRandomNumbers[i];
+        myRandomNumbers[i] = docasnaPromenna;
+
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("=============================================================");
+    Console.WriteLine("Seřazená čísla pomocí Selection sortu: ");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{myRandomNumbers[i]}; ");
+    }
+    Console.WriteLine();*/
+
+    //bubble sort:
+    /*
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        
+            if (myRandomNumbers[j] > myRandomNumbers[j + 1])
+            {
+                int docasnaPromenna = myRandomNumbers[j];
+                myRandomNumbers[j] = myRandomNumbers[j+1];
+                myRandomNumbers[j+1] = docasnaPromenna;
+            }
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("========================================");
+    Console.WriteLine("Seřazená čísla pomocí Bubble sortu: ");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{myRandomNumbers[i]}; ");
+    }
+    Console.WriteLine();*/
+
+    //insertion sort
+    for (int i = 0; i < n; i++)
+    {
+        int key = myRandomNumbers[i];
+        int j = i - 1;
+
+        while (j >= 0 && myRandomNumbers[j] > key )
+        {
+            myRandomNumbers[j + 1] = myRandomNumbers[j];
+            j = j - 1;
+        }
+
+        myRandomNumbers[j + 1] = key;
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("===========================================================");
+    Console.WriteLine("Seřazená čísla pomocí Insertion sortu: ");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{myRandomNumbers[i]}; ");
+    }
+    Console.WriteLine();
 
 
 
