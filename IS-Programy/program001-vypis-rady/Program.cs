@@ -58,9 +58,10 @@ while (again == "a")
     Console.WriteLine();
 
     int current = first;
-    while(current <= last) {
-        current = current + step; // přičtení diference k aktuální vypisované hodnotě
+    while(current <= last) 
+    {
         Console.WriteLine(current);
+        current = current + step; // přičtení diference k aktuální vypisované hodnotě
     }
 
     Console.WriteLine();
