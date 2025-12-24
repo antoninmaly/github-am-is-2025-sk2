@@ -55,15 +55,15 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("==========================================");
     Console.WriteLine("Výpis číselné řady");
+    Console.WriteLine();
 
     int current = first;
     while(current <= last) {
-        Console.WriteLine(current);
         current = current + step; // přičtení diference k aktuální vypisované hodnotě
+        Console.WriteLine(current);
     }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
-
 }
