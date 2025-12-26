@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\bin\Debug\net9.0\program004e-had.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\bin\Debug\net9.0\program004e-had.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\bin\Debug\net9.0\program004e-had.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\bin\Debug\net9.0\program004e-had.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\bin\Debug\net9.0\program004e-had.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\refint\program004e-had.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\program004e-had.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004e-had\obj\Debug\net9.0\ref\program004e-had.dll
