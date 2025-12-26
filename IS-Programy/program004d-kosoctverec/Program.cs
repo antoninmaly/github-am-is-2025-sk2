@@ -19,7 +19,7 @@ while (again == "a")
      int n;
      while (true)
         {
-            Console.Write("Zadej velikost trojúhelníku (kladné celé číslo): ");
+            Console.Write("Zadej velikost kosočtverce (kladné celé číslo): ");
             if (int.TryParse(Console.ReadLine(), out n) && n > 0)
                 break;
             Console.WriteLine("Neplatný vstup, zadej prosím kladné celé číslo.");
