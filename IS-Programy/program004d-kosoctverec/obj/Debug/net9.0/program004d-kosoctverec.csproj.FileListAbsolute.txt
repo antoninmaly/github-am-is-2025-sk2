@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\bin\Debug\net9.0\program004d-kosoctverec.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\bin\Debug\net9.0\program004d-kosoctverec.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\bin\Debug\net9.0\program004d-kosoctverec.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\bin\Debug\net9.0\program004d-kosoctverec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\bin\Debug\net9.0\program004d-kosoctverec.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\refint\program004d-kosoctverec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\program004d-kosoctverec.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program004d-kosoctverec\obj\Debug\net9.0\ref\program004d-kosoctverec.dll
