@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net9.0\program015a-konzolova-hra.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net9.0\program015a-konzolova-hra.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net9.0\program015a-konzolova-hra.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net9.0\program015a-konzolova-hra.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net9.0\program015a-konzolova-hra.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\refint\program015a-konzolova-hra.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\program015a-konzolova-hra.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net9.0\ref\program015a-konzolova-hra.dll
