@@ -9,7 +9,7 @@ while (again == "a")
     Console.WriteLine("===== FOTBALOVÝ PENALTOVÝ ROZSTŘEL ======");
     Console.WriteLine("=========================================");
     Console.WriteLine();
-    Console.WriteLine("V této hře máš za úkol vstřelit co nejvíce gólů z 5-ti penalt.");
+    Console.WriteLine("V této hře máte za úkol vstřelit co nejvíce gólů z 5-ti penalt.");
     Console.WriteLine();
 
     Random numbs = new Random();
