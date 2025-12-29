@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tonda\\aaa\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort\\program007b-bubble-sort.csproj",
+      "projectUniqueName": "C:\\Users\\tonda\\Programovani\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort-obrazec\\program007b-bubble-sort.csproj",
       "projectName": "program007b-bubble-sort",
-      "projectPath": "C:\\Users\\tonda\\aaa\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort\\program007b-bubble-sort.csproj",
+      "projectPath": "C:\\Users\\tonda\\Programovani\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort-obrazec\\program007b-bubble-sort.csproj",
       "packagesPath": "C:\\Users\\tonda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tonda\\aaa\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort\\obj\\",
+      "outputPath": "C:\\Users\\tonda\\Programovani\\IS-2025-sk2\\github-am-is-2025-sk2\\IS-Programy\\program007b-bubble-sort-obrazec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\tonda\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
