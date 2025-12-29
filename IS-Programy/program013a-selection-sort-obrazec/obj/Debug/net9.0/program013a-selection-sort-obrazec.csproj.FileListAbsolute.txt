@@ -1,0 +1,15 @@
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\bin\Debug\net9.0\program013a-selection-sort-obrazec.exe
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\bin\Debug\net9.0\program013a-selection-sort-obrazec.deps.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\bin\Debug\net9.0\program013a-selection-sort-obrazec.runtimeconfig.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\bin\Debug\net9.0\program013a-selection-sort-obrazec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\bin\Debug\net9.0\program013a-selection-sort-obrazec.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.AssemblyInfoInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.AssemblyInfo.cs
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.sourcelink.json
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\refint\program013a-selection-sort-obrazec.dll
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.pdb
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\program013a-selection-sort-obrazec.genruntimeconfig.cache
+C:\Users\tonda\Programovani\IS-2025-sk2\github-am-is-2025-sk2\IS-Programy\program013a-selection-sort-obrazec\obj\Debug\net9.0\ref\program013a-selection-sort-obrazec.dll
