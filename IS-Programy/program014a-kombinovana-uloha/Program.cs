@@ -1,4 +1,6 @@
-﻿using System.Globalization;
+﻿using System.ComponentModel;
+using System.Globalization;
+using System.Reflection;
 using System.Security.Authentication.ExtendedProtection;
 using Microsoft.Win32.SafeHandles;
 
@@ -159,7 +161,7 @@ while (again == "a")
         int key = myRandomNumbers[i];
         int j = i - 1;
 
-        while (j >= 0 && myRandomNumbers[j] > key )
+        while (j >= 0 && myRandomNumbers[j] < key )
         {
             myRandomNumbers[j + 1] = myRandomNumbers[j];
             j = j - 1;
@@ -177,10 +179,173 @@ while (again == "a")
     }
     Console.WriteLine();
 
+    //druhé, třetí a čtvrté největší číslo
 
+    int secMax = 0;
+    int thirdMax = 0;
+    int fourthMax = 0;
+    int nalezeneHodnoty = 1;
+
+    for (int i = 1; i < n; i++)
+    {
+        if (myRandomNumbers[i] < max && nalezeneHodnoty == 1)
+        {
+            secMax = myRandomNumbers[i];
+            nalezeneHodnoty = 2;
+        }
+        else if (myRandomNumbers[i] < secMax && nalezeneHodnoty == 2)
+        {
+            thirdMax = myRandomNumbers[i];
+            nalezeneHodnoty = 3;
+        }
+        else if (myRandomNumbers[i] < thirdMax && nalezeneHodnoty == 3)
+        {
+            fourthMax = myRandomNumbers[i];
+            nalezeneHodnoty = 4;
+            break;
+        }
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("===========================================================");
+    Console.WriteLine($"Druhý největší prvek: {secMax}");
+    Console.WriteLine($"Třetí největší prvek: {thirdMax}");
+    Console.WriteLine($"Čtvrtý největší prvek: {fourthMax}");
+    Console.WriteLine();
+
+    //medián
+    double median;
+
+    if (n % 2 != 0)
+    {
+        median = myRandomNumbers[n/2];
+    }
+    else
+    {
+        int stred1 = myRandomNumbers[(n/2) - 1];
+        int stred2 = myRandomNumbers[n/2];
+        median = (stred1 + stred2)/2.0;
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("===========================================================");
+    Console.WriteLine($"Medián čísel je: {median}");
+    Console.WriteLine();
+    Console.WriteLine("===========================================================");
+    
+
+    //převod do binární soustavy čtvrtého největšího čísla
+    int cisloProPrevod = fourthMax; 
+    int[] binarniPole = new int[32];
+    int k = 0;
+
+    if (cisloProPrevod < 0) 
+    {
+        cisloProPrevod = -cisloProPrevod;
+    }
+
+    if (cisloProPrevod == 0)
+    {
+        Console.WriteLine("Binární podoba čísla: 0");
+    }
+    else
+    {
+        while (cisloProPrevod > 0)
+        {
+            binarniPole[k] = cisloProPrevod % 2;
+            cisloProPrevod = cisloProPrevod / 2;
+            k++;
+        }
+        Console.Write("Binární podoba čtvtého nejvyššího čísla: ");
+        for (int j = k - 1; j >= 0; j--)
+        {
+            Console.Write(binarniPole[j]);
+        }
+        Console.WriteLine();
+    }
+    Console.WriteLine();
+    Console.WriteLine("======================================");
+    Console.WriteLine();
+    
+    //obrazec, výška - medián, šířka - třetí nejvyšší číslo
+    int sirka = thirdMax;
+    int vyska = (int)median;
+
+    if (sirka < 5 || vyska < 5)
+    {
+        Console.WriteLine("Pokud výška nebo šířka bude menší než 5, tak obrazec nelze vykreslit.");
+    }
+    else
+    {
+        for (int i = 0; i < vyska; i++)
+        {
+            if (i < 2 || i >= vyska - 2)
+            {
+                for (int j = 0; j < sirka; j++)
+                {
+                    if (j < 2 || j >= sirka - 2)
+                    {
+                        Console.Write(" ");
+                    }
+                    else
+                    {
+                        Console.Write("*");
+                    }
+                }
+                Console.WriteLine();
+            }
+            else
+            {
+                for (int j = 0; j < sirka; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+    Console.WriteLine();
+    Console.WriteLine();
+    
+    //obrazec, výška - medián, šířka - třetí nejvyšší číslo
+    int sirka2 = (int)median;
+    int vyska2 = thirdMax;
+    if (sirka2 < 5 || vyska2 < 5)
+    {
+        Console.WriteLine("Pokud výška nebo šířka bude menší než 5, tak obrazec nelze vykreslit.");
+    }
+    else
+    {
+        for (int i = 0; i < vyska2; i++)
+        {
+            if (i < 2 || i >= vyska2 - 2)
+            {
+                for (int j = 0; j < sirka2; j++)
+                {
+                    if (j < 2 || j >= sirka2 - 2)
+                    {
+                        Console.Write(" ");
+                    }
+                    else
+                    {
+                        Console.Write("*");
+                    }
+                }
+                Console.WriteLine();
+            }
+            else
+            {
+                for (int j = 0; j < sirka2; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
 
-}                                                   
+}
